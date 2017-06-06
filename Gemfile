@@ -8,7 +8,7 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.1'
-
+gem 'rails-controller-testing'
 gem 'bcrypt', '~>3.1.11'
 gem 'will_paginate', '3.1.0'
 gem 'will_paginate-bootstrap', '1.0.1'
